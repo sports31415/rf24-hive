@@ -3,13 +3,7 @@
   <component name="RemoteMappingsManager">
     <list>
       <list>
-        <remote-mappings server-id="python@ssh://pi@raspi-hive:22/usr/bin/python">
-          <settings>
-            <list>
-              <mapping local-root="$PROJECT_DIR$" remote-root="/home/pi/projects/rf24-hive" />
-            </list>
-          </settings>
-        </remote-mappings>
+        <remote-mappings server-id="python@ssh://pi@raspi-hive:22/usr/bin/python" />
       </list>
     </list>
   </component>
